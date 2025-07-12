@@ -1,0 +1,3 @@
+in scr 
+javac *.java
+java Main ../benchmarks/bridge_1.txt
